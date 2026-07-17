@@ -63,7 +63,6 @@
 
 > Live contributor stats and contributions.
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jesselpetry&theme=dark-minimalist&hide_border=true" alt="GitHub Streak" /></a>
 
 <!-- links -->
 
