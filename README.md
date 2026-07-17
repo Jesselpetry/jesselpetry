@@ -1,5 +1,5 @@
 <h1 align="left" id="jesselpetry-title">:wave: Hello there! I'm Chatan Petry</h1>
-<h3 align="left">I do Software Engineering & Web Development things</h3>
+<h3 align="left">I'm a student at the School of Information Technology, King Mongkut's Institute of Technology Ladkrabang</h3>
 
 <p align="left">
   <a href="https://github.com/Jesselpetry/jesselpetry"><img src="https://komarev.com/ghpvc/?username=Jesselpetry" alt="page views" /></a>
