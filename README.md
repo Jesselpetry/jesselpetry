@@ -63,7 +63,7 @@
 
 > Live contributor stats and contributions.
 
-<a href="https://github.com/Jesselpetry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesselpetry&theme=transparent" alt="Jesselpetry GitHub Streak" /></a>
+<a href="https://github.com/Jesselpetry"><img src="https://streak-stats.demolab.com/?user=Jesselpetry&theme=transparent" alt="Jesselpetry GitHub Streak" /></a>
 
 <!-- links -->
 
