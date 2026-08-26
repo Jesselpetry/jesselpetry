@@ -58,12 +58,6 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left">GitHub Contribution Stats</h2>
-
-> Live contributor stats and contributions.
-
-
 <!-- links -->
 
 [School of Information Technology, KMITL]: https://www.it.kmitl.ac.th/
