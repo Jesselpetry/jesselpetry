@@ -8,8 +8,6 @@
   <a href="https://www.it.kmitl.ac.th/"><img alt="KMITL IT" src="https://img.shields.io/badge/KMITL-IT%20Student-orange?style=flat&logo=book"></a>
 </p>
 
-<a href="#jesselpetry-title"><img src="https://github-readme-stats.vercel.app/api?username=Jesselpetry&show_icons=true&theme=transparent" alt="Jesselpetry stats" align="right" /></a>
-
 - :school: &nbsp;I'm currently a student at the **[School of Information Technology, KMITL]**
 - :seedling: &nbsp;I’m currently working on my coding skills with **Python**, **TypeScript**, and **React/Next.js**
 - :speech_balloon: &nbsp;I like to talk about **Full-Stack Development**, **Databases**, and **Software Engineering**
